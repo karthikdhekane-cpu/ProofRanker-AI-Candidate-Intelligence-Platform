@@ -141,8 +141,8 @@ Detailed documentation on system architecture, API endpoints, and configuration 
 
 ## Contributors
 
-- [Pham Phu Ngoc Trai](https://github.com/jayllfpt)
-- [Vector Nguyen](https://github.com/vectornguyen76)
+- [Srinish Hulamani](https://github.com/hulamanisrinish-cpu/)
+- [Karthik Dhekane](https://github.com/karthikdhekane-cpu)
 
 ## License
 
