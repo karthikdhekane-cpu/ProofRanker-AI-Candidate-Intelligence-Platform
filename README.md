@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-**Frontend:** https://proof-ranker-ai-candidate-intelligence-platform-kr25az83u.vercel.app
+**Frontend:** https://proof-ranker-ai-candidate-intellige.vercel.app/dashboard/jobs
 
 [![Development](https://github.com/vectornguyen76/resume-ranking/actions/workflows/development_pipeline.yml/badge.svg)](https://github.com/vectornguyen76/resume-ranking/actions/workflows/development_pipeline.yml)
 [![Staging](https://github.com/vectornguyen76/resume-ranking/actions/workflows/staging_pipeline.yml/badge.svg)](https://github.com/vectornguyen76/resume-ranking/actions/workflows/staging_pipeline.yml)
